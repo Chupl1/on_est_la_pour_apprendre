@@ -1,0 +1,17 @@
+header
+{
+    color : #FF9900;
+    text-align: center;
+    background-color: black;
+    font-weight: bold; /* texte en gras */
+    padding-bottom: 10px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    margin: 0;
+    padding: 0; 
+}
